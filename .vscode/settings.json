@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.sty": "latex",
+        "cmath": "cpp"
+    }
+}

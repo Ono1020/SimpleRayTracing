@@ -1,0 +1,3 @@
+/home/onosans/Documents/SimpleRayTracing/CMakeFiles/SimpleRayTracing.dir
+/home/onosans/Documents/SimpleRayTracing/CMakeFiles/edit_cache.dir
+/home/onosans/Documents/SimpleRayTracing/CMakeFiles/rebuild_cache.dir
